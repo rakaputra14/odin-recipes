@@ -1,0 +1,14 @@
+.header{
+    width: 200px;
+    background-color: rgb(253, 200, 55);
+    text-align: center;
+    justify-self: center;
+}
+.btn{
+    background-color: rgb(229, 241, 57);
+    border: 1px solid black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.list{
+    background-color: bisque;
+}
